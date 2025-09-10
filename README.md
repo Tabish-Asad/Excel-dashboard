@@ -38,5 +38,7 @@ To provide a clear view of regional sales performance and employee target achiev
 -Designed visuals (charts, tables, KPIs) for clear insights.
 
 ## dashboard
+<img width="2481" height="1003" alt="excel projrct" src="https://github.com/user-attachments/assets/da1446f3-aad9-48d5-824e-c75e5bf303c3" />
+
 
 
