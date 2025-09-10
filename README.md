@@ -16,7 +16,7 @@ To provide a clear view of regional sales performance and employee target achiev
 -By what percentage are employees away from their targets?
 -Which employees show the largest sales gap from the target?
 
--Dashboard Interaction <a href="<a href="https://github.com/Tabish-Asad/Excel-dashboard/blob/main/Excel%20Dashboard.xlsm"> View dashboard </a>"> Data set </a>
+-Dashboard Interaction <a href="<a href="https://github.com/Tabish-Asad/Excel-dashboard/blob/main/Excel%20Dashboard.xlsm"> View dashboard </a>">
 
 ## Process
 -Collected sales and target data from different regions.
