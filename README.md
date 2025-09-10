@@ -40,5 +40,19 @@ To provide a clear view of regional sales performance and employee target achiev
 ## dashboard
 <img width="2481" height="1003" alt="excel projrct" src="https://github.com/user-attachments/assets/da1446f3-aad9-48d5-824e-c75e5bf303c3" />
 
+## Project Insight
+-Identified employees who exceeded their sales targets.
+
+-Highlighted employees falling short of their targets.
+
+-Analyzed regional variations in sales performance.
+
+-Measured sales gaps to track underperformance areas.
+
+-Showed contribution share of each employee to total sales.
+
+## Final Conclusion
+The Sales Performance Dashboard provides a comprehensive view of regional and employee-wise sales achievements, identifies gaps against targets, and highlights top and low performers. It enables quick insights for management to make data-driven decisions, improve sales strategies, and enhance overall business performance.
+
 
 
